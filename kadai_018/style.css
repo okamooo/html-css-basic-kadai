@@ -13,6 +13,8 @@
 .top-child{
     display: inline;
     width: 20%;
+    padding-left: 40px;
+    padding-right: 40px;
     background-color: #ffd9df;
 }
 
